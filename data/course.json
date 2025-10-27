@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "3b58bbec-f8bb-4345-baa9-0af6b0e7d351",
+  "instructors": {
+    "content": [
+      "7335f052-c22d-8901-098f-f833999a0a3d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "77a54ac6-a704-57dd-6db4-2aaa1fc8ba51",
+    "website": "18-353j-nonlinear-dynamics-i-chaos-fall-2012"
+  },
+  "course_title": "Nonlinear Dynamics I: Chaos",
+  "course_description": "This course provides an introduction to nonlinear dynamics and chaos in dissipative systems. The content is structured to be of general interest to undergraduates in engineering and science.\n",
+  "department_numbers": [
+    "18",
+    "2",
+    "12"
+  ],
+  "extra_course_numbers": "2.050J,12.006J",
+  "primary_course_number": "18.353J",
+  "course_image_thumbnail": {
+    "content": "dda16b8f-8e48-178f-12f0-3e0ed9f07b1a",
+    "website": "18-353j-nonlinear-dynamics-i-chaos-fall-2012"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "818d6631-6cba-4e92-9834-30a54ae173a6",
+  "site_short_id": "18.353j-fall-2012",
+  "site_url_path": "courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012",
+  "title": "Course Metadata"
+}
